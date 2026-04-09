@@ -1,3 +1,4 @@
+input oh hi baby i ove you so much ur so cute just come here. <3
 module top(
     input btnC,
     input btnU,
